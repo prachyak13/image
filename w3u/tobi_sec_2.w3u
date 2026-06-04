@@ -1,13 +1,13 @@
 { 
   "name": "Tobi IPTV", 
   "author": UPDATE 04/06/26", 
-  "image": "https://github.com/prachyak13/image/blob/main/Tobi_IPTV_logo.png", 
+  "image": "https://raw.githubusercontent.com/prachyak13/image/main/Tobi_IPTV_logo.png", 
   "groups": 
   [ 
   { 
        
 "name": "Tobi IPTV", 
-"image": "https://github.com/prachyak13/image/blob/main/Tobi_IPTV_logo.png", 
+"image": "https://raw.githubusercontent.com/prachyak13/image/main/Tobi_IPTV_logo.png", 
 "url": "xxx" 
  
     } 
