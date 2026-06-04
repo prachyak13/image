@@ -1,15 +1,12 @@
 { 
   "name": "Tobi IPTV", 
   "author": "ดูเงียบๆนะ", 
-  "image": "https://github.com/prachyak13/image/blob/main/Tobi_IPTV_logo.png", 
-  "groups": 
-  [ 
-  { 
-       
-"name": "Tobi IPTV", 
-"image": "https://github.com/prachyak13/image/blob/main/Tobi_IPTV_logo.png", 
-"url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/w3u/tobi_sec_2" 
- 
+  "image": "https://raw.githubusercontent.com/prachyak13/image/main/Tobi_IPTV_logo.png", 
+  "groups": [ 
+    {       
+      "name": "Tobi IPTV", 
+      "image": "https://raw.githubusercontent.com/prachyak13/image/main/Tobi_IPTV_logo.png", 
+      "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/w3u/tobi_sec_2" 
     } 
   ] 
 }
