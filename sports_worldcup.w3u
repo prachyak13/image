@@ -48,7 +48,7 @@
       "name": "🌎 FIFA 2026",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
       "stations": [
-        { "name": "[4K]🇺🇸 FIFA WORLD CUP 2026 | USA #1", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", "url": "http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/135151"},
+        { "name": "[4K]🇺🇸 FIFA WORLD CUP 2026 | USA #1", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/fifa_2026_us.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" },
  
         { "name": "🇬🇧 FIFA WORLD CUP 2026 | ENGLISH #1", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", "url": "http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/17181", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" },
         
