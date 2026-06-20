@@ -1,15 +1,12 @@
 { 
   "name": "Tobi IPTV", 
-  "author": UPDATE 04/06/26", 
+  "author": "UPDATE 04/06/26", 
   "image": "https://raw.githubusercontent.com/prachyak13/image/main/Tobi_IPTV_logo.png", 
-  "groups": 
-  [ 
-  { 
-       
-"name": "Tobi IPTV", 
-"image": "https://raw.githubusercontent.com/prachyak13/image/main/Tobi_IPTV_logo.png", 
-"url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/truetest.m3u8" 
- 
+  "groups": [ 
+    { 
+      "name": "Tobi IPTV", 
+      "image": "https://raw.githubusercontent.com/prachyak13/image/main/Tobi_IPTV_logo.png", 
+      "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/truetest.m3u8" 
     } 
   ] 
 }
