@@ -1,8 +1,8 @@
 { 
   "name": "Tobi IPTV", 
-  "author": "UPDATE 04/06/26", 
+  "info": "UPDATE 04/06/26", 
   "image": "https://raw.githubusercontent.com/prachyak13/image/main/Tobi_IPTV_logo.png", 
-  "groups": [ 
+  "stations": [ 
     { 
       "name": "Tobi IPTV", 
       "image": "https://raw.githubusercontent.com/prachyak13/image/main/Tobi_IPTV_logo.png", 
