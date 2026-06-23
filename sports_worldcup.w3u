@@ -8,6 +8,49 @@
       "name": "TV SPORTS",
       "image": "https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png",
       "stations": [
+        {
+    "name": "worldcup 2026[1]",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://raw.githubusercontent.com/prachyak13/TOBITV/refs/heads/main/bein_fr_4k.m3u8",
+    "referer": "https://github.com/",
+    "userAgent": ""
+     },
+
+                        {
+
+                              "name": "worldcup 2026[2]",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/worldcup2026_en1.m3u8",
+    "referer": "https://github.com/",
+    "userAgent": ""
+         },
+
+                        {
+
+                              "name": "worldcup 2026[3]",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/worldcup2026_en2.m3u8",
+    "referer": "https://github.com/",
+    "userAgent": ""
+         },
+
+                        {
+
+                              "name": "worldcup 2026[4]",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/worldcup2026_en3.m3u8",
+    "referer": "https://github.com/",
+    "userAgent": ""
+     },
+
+                        {
+
+                              "name": "worldcup 2026[5]",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/worldcup2026_en4.m3u8",
+    "referer": "https://github.com/",
+    "userAgent": ""
+    },
         { "name": "BeIN Sport 1 FR", "image": "https://images.streamx-web.org/images/tv/channels_icons/fr-bein1hd.png", "url": "https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=fr-bein1hd", "referer": "https://apiiptv.lnwthailive.online/", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" },
         { "name": "BeIN Sports 1 Thai", "image": "https://images.streamx-web.org/images/tv/png/epl-bein1.png", "url": "https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=epl-bein1", "referer": "https://apiiptv.lnwthailive.online/", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" },
         { "name": "BeIN Sports 1 Thai", "image": "https://images.streamx-web.org/images/tv/png/epl-bein1bkp.png", "url": "https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=epl-bein1bkp", "referer": "https://apiiptv.lnwthailive.online/", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" },
