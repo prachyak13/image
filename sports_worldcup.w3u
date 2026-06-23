@@ -1,12 +1,12 @@
 {
-  "name": "TV",
+  "name": "Worldcup 2026 TV",
   "author": "Update (23/06/2026)",
-  "image": "https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
   "url": "",
   "groups": [
     {
-      "name": "TV SPORTS",
-      "image": "https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png",
+      "name": "Worldcup 2026 TV",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
       "stations": [
         {
     "name": "worldcup 2026[1]",
