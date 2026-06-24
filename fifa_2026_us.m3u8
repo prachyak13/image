@@ -3,8 +3,6 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=2200000
-http://fastopen.live:8080/live/eY4LRyEkJP/9cV5tKCRYh/135151.m3u8
-
-#http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2432257.m3u8
-
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2432257.m3u8
+#http://fastopen.live:8080/live/eY4LRyEkJP/9cV5tKCRYh/135151.m3u8
 #http://fastopen.live:8080/live/eY4LRyEkJP/9cV5tKCRYh/135152.m3u8
