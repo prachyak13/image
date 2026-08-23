@@ -1,0 +1,1534 @@
+{
+    "name": "xxx",
+    "author": "update [23/08/26]",
+    "url": "",
+    "image": "xxx",
+    "groups": [
+        {
+            "name": "xxx",
+            "image": "xxx",
+            "stations": [
+                {
+  
+    "name": "BYD THAI LEAGUE 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ball-thai-1.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai01/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ball-thai-2.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai02/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 3",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ball-thai-3.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai03/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 4",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-4.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai04/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 5",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-5.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai05/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 6",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-6.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai06/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 7",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-7.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai07/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 8",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-8.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai08/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 9",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-9.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai09/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 10",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-10.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai10/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 11",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-11.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai11/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 12",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-12.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai12/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 13",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-13.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai13/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 14",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-14.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai14/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 15",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-14-i9ihod0o8224.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai15/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 16",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-16.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai16/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 17",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-17.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai17/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 18",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-18.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai18/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 19",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-19.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai19/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 20",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-20.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai20/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 21",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-21.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai21/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 22",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-22.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai22/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 23",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-23.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai23/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 24",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-24.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai24/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 25",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-25.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai25/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 26",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-26.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai26/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BYD THAI LEAGUE 27",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/byd-thai-league-27.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ballthai27/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "3HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/3hd.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/3hd/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "5HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/5hd.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ch5/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "7HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/7hd.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ch7hd/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Workpoint  TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/workpoint-tv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/workpoint/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MCOTHD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/mcothd.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/mcothd30/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Amarintv HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/amarintvhd.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/amarintvhd/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Thairath HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/thairath-hd-4rrxhud2n7qe.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/thairathtvhd/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ONE HD 31",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/one-hd-31.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/onehd31/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "GMM25 ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/gmm25.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/soop/gmm25/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "PPTV HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/pptv-hd.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/true/pptvhd/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "CH 8",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/8-ch.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/ch8/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MONO 29",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/mono-29-0h7foqv0tuyz.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/monomaxsports/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NBT ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nbt.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/true/nbthd/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Nation TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nation-tv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/byteark/nationtv1080p/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NEWS 1 ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/news-1.png",
+    "url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TOP NEWS",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/top-news.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/topnews/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TPTV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/tptv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/tptv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TNN 16",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/tnn-16-hotaie4n62m3.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/true/tnn16/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Thai PBS HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/thai-pbs-hd-56v5wfxtf4az.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/tpbs/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Police TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/police-tv.jpg",
+    "url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Suwannabhumi",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/สวรรณภม-juq5t2bkxa7j.png",
+    "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AVC Womens Volleyball Continental 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/avc-womens-volleyball-continental-1.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/monomaxsports/master.m3u8",
+    "info": "07 Aug 2026 01:00",
+    "userAgent": ""
+  },
+  {
+    "name": "VOLLEYBALL WORLD BEACH PRO TOUR",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/volleyball-world-beach-pro-tour.webp",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/volleyballworldbeach/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MOTO GP",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/moto-gp.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/truevisions/motogp1/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Premier Sport",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/premier-sport.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/premiersport/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MONOMAX SPORTS 1 720",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/monomax-sports-1-720.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/ballthai01720/master.m3u8",
+    "info": "MONOMAX SPORTS 1 720",
+    "userAgent": ""
+  },
+  {
+    "name": "MONOMAX SPORTS 2 720",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/monomax-2-720.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/monomax2720/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MONOMAX SPORTS 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/monomax-sports-1.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/monomax1/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MONOMAX SPORTS 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/monomax-sports-2.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/monomax2/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MONOMAX SPORTS TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/monomax-sports-tv.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/monomaxsportstv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE BALL THAI 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-ball-thai-1.png",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/trueballthai1/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE BALL THAI 3",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-ball-thai-3.png",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/trueballthai3/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "True Volleyball 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-volleyball-1.png",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/volleyball1/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bein Sports XTRA",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bein-sports-xtra-xx.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inter/beinsportsxtra/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bein 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bein-1.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/bein1ais/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bein 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bein-2-yvix9jvs75zx.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/bein2ais/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bein 3",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bein-3-wqif5w86k75s.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/bein3ais/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bein 1 True",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bein-1-true-n6ove4c1n70v.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/bein1true/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bein 2 TRUE",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bein-2-true.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/bein2true/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bein 3 True",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bein-3-th.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/bein3true/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bein 4",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bein-4.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/truevisions/bein4/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE Premier Football 3",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-premier-football-3-ss.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/truevisions/truepremierfootball3/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE Premier Football 4",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-premier-football-4-ss.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/truevisions/truepremierfootball4/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE Premier Football 5",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-premier-football-5-ss.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/truevisions/truepremierfootball5/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Truesports 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-1-hd-f2b2or9lmqip.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truesport1/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Truesports 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-2-hd-ivm0pjkyfz3r.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truesport2/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Truesports 3",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-3-hd-vnraj03lcomn.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truesport3/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Truesports 4",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-4-hd-qjheg5fwiwb2.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truesport4/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Truesports 5",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-5-hd-rq5q77it4ysf.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truesport5/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Truesports 7 ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/truesport-7-k2szpfgd4edq.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truesport7/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ATP TOUR 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/atp-tour-1112.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/atp1/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ATP TOUR 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/atp-tour-222.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/atp2/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ATP TOUR 3",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/atp-tour-3.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/atp3/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "PGA TOUR 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/pga-tour-1.webp",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay61/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "PGA TOUR 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/pga-tour-2.webp",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay62/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "PGA TOUR 3",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/pga-tour-3.webp",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay64/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 64",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-1-zjyg6s31bfn5.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay64/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 65",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-1.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay65/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 66",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-3.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay66/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 69",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-4.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay69/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 74",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-5.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay74/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 75",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-6.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay75/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 76",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-7.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay76/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 58",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-8.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay58/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 41",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-9.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay41/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 90",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-10.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay90/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 95",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-11.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay95/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AIS PLAY 96",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ais-play-12.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay96/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "UFC",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ufc-ajromvab7ix8.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/ufc/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "FIFA+ WOMEN",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/fifa-women-yg0579cgw301.png",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/fifawomen/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "FIFA+",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/fifa-ho97eg963sbr.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/fifa/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NBA Prime",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nba-prime.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/live/nba/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NBA 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nba-1.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay55/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NBA 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nba-1.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay57/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NBA 3",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nba-o7tb6kf4cxkq.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay58/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NFL 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nfl.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay51/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NFL 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nfl-1.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay52/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NFL 3",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nfl-wt34n6uu89wb.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aisplay53/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "SPOTV 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/spotv-1-16xmezwbewzh.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/spotv1/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "SPOTV 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/spotv-2-pfqcpg85zedf.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/spotv2/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "GOLF Channel HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/golf-channel-hd.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/truevisions/golfplus/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TENNIS",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/tennis-jfydvl21uhjs.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truetennis/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "W-sport",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/w-sport-gi8yvfpt3dqf.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/wsport/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "T SPORT 7",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/t-sport-7-wugg3jj3qnkf.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/tsports7/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "REDBLUE",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/redblue-0tqgx35wu1nu.png",
+    "url": "https://edge-2.m-fixer.net:8090/stream/inter/redbulltv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "EUROSPORT1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/eurosport-aiznkicuh941.webp",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/eurosport/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Realmadrid TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/realmadrid-tv.link",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/realmadridtv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "LFC",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/lfc-t6czf365s21e.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/lfctv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MUTV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/mutv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/mutv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ROCK X STREAM",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/rock-x-stream.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/rockstream/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "CINEMAX",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/cinemax-datby2l61jyv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/cinemax/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "HBO HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/hbo.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/hbohd/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "HBO Family",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/hbo-family-tv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/hbofamily/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "HBO Signature ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/hbo-signature-1yzlem7r40xw.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/hbosignature/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "HBO Hits ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/hbo-hits-qzaqpqw452uy.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/hbohits/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "iQIYI",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/iqiyi.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/iqiyi/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "[4K] tvN",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/4k-tvn.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/4ktvn/master.m3u8",
+    "info": "Recommend Internet 30 Mbps",
+    "userAgent": ""
+  },
+  {
+    "name": "tvN Asia",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/tvn-asia.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/tvnasia/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ROCK EXTREME",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/rock-extreme-so6o8taoyyvj.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/rockaction/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ROCK ENTENTAINMENT",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/rock-ententainment-t63wwgsvswph.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/rockentertainment/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Warner",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/warner.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/warnertv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AXN",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/axn.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/axn/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Lifetime",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/lifetime.png",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/lifetime/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ASIAN MORE",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/asian-more-amg4lumhn1tg.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/trueasianmore/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Asian Hits",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/asian-hits.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/asianhits/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "CCM",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ccm.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/ccm/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "FILM ASIA",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/film-asia-w504gyfnb38d.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truefilmasia/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE SERIES",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-series-c6t79vosvj3v.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/trueseries/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MOVIE HITS",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/movie-hits-zgz82j3p8en6.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truemoviehits/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "FILM HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/film-hd.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truefilm1/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "FILM HD 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/film-hd-2-fsvz4bg9j1zu.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truefilm2/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ThaiFilm ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/thaifilm-did6fpuireq1.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truethaifilm/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE 4U",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-4u.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/trueforu/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "KBS WORLD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/kbs-world.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/kbsworld/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MONO PLUS",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/mono-plus-ovjzyng4l3dy.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/mono29plus/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "[4K] Love Nature",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/4k-love-nature.png",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/love-nature-4k/master.m3u8",
+    "info": "Recommend Internet 30 Mbps",
+    "userAgent": ""
+  },
+  {
+    "name": "Foodiez",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/foodiez.webp",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/foodiez/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "RT Documentary",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/rt-documentary.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/rtdocumentary/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Discovery",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/discovery-r2hd81j0t1cq.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/discovery/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Discovery Asia",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/discovery-asia.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/discoveryasia/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "History ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/history.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/history/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BBC Lifestyle",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bbc-lifestyle.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/bbclifestyle/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Khongdee",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/khongdee.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/khongdeethailand/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ThaiNess",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/thainess.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/thainess/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Sumlojlok",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/sumlojlok.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/samrujlok/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MY SCI",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/my-sci.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/mysci/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ANIMAL SHOWHD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/animal-showhd-pnt800diz0vq.jfif",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/animalshow/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE SCI",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-sci.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/trueexploresci/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE WILD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-wild-ifwk8r57s9pk.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/trueexplorewild/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "XZYTE ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/xzyte-oafu95nnvx4h.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/truezyte/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AFN",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/afn.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/asianfoodnetwork/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TLC HD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/tlc-hd-z83zo022sfa3.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/tlc/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "FOOD NETWORK ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/food-network-495bwg8kmxbu.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/foodnetwork/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Crime+ Investi Gation",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/crime-investi-gation.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/crime/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Wonder World",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/wonder-world-l4svq06der9f.jpg",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Wired2Fish ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/wired2fish.jpg",
+    "url": "https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Boomerang",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/boomerang.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/boomerang/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Mango Mojito",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/mango-mojito.webp",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/mangomojito/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ANIPLUS",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/aniplus-dhg0fbpr4fna.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/true/aniplus/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "DreamWorks",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/dreamworlds.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/dreamwork/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "True Spark Play",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-spark-play.webp",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/truesparkplay/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "nickelodeon",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nickelodeon-xg5lmuau0q3k.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/nickelodeon/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Cartoon Network",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/cn-in018w6mqrde.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/cartoonnetwork/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Nick Jr ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nick-jr.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/nickjr/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "CartoonClub TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/cartoonclub-tv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/true/cartoonclub/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "cartoonito",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/cartoonito.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/cartoonito/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "EBS KIDS",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ebs-kids.png",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "EBS KIDS 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ebs-kids-2.png",
+    "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ZOOMOO",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/zoomoo-325rkge8m59m.jpg",
+    "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TRUE AF",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/true-af.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inw/trueaf/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TV5MONDE",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/tv5monde.webp",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/tv5monde/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "MONO29 Music",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/mono29-music.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/mono29music/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Alure Channel",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/alure-channel-n4ndgw05icbr.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/alure/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Rush Stories",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/rush-stories-8fxmg74zf54u.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/monomax/rush/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BLUES TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/blues-tv.jpg",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NOW CLASSIC ROCK",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/now-classic-rock.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/nowclassicrock/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NOW 80",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/now-80.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/now80/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NOW 70",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/now-70.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/now70/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Fashion TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/fashion-tv.png",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/fashiontv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "51",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/51.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/51/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "EIMC",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/eimc.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/eimc/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "EBS 1",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ebs-1.webp",
+    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "EBS 2",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/ebs-2-9lf2txob7hkn.jpg",
+    "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "TVBS news",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/tvbs-news.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/tvbsnews/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "CCTV 4",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/cctv-4-8k2ivao5wlrk.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/cctv4/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Hunan TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/hunan-tv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/hunantv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "CCTV 10",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/cctv-10.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inter/cctv10/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Guangzhou TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/guangzhou-tv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inter/guangzhoutv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bloomberg TV+ UHD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bloomberg-tv-uhd-goa3c4r0voxr.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/inter/bloomberg-4k/master.m3u8",
+    "info": "Recommend Internet 30 Mbps",
+    "userAgent": ""
+  },
+  {
+    "name": "CNN",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/cnn.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/cnn/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Fox Business",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/fox-business.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/foxbusiness/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Fox News ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/fox-news.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/foxnews/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "RT",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/rt-lgh75x8bxc8y.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/rtchannel/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "BBC WORLD",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bbc-world-axgkhmnhm960.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/bbcworldnewse/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "A.TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/atv.jpg",
+    "url": "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "DW",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/dw-f0802vcyxqm9.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/dw/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Korea TV",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/korea-tv.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/inter/ktv/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ABC Australia",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/abc-australia.png",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/abcaustralia/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "CNBC",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/cnbc.webp",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/cnbc/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ALJAZEERA  ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/aljazeera.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/aljazeeraenglish/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "SKY News Arabia ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/sky-news-arabia.jpg",
+    "url": "https://stream.skynewsarabia.com/hls/sna_720.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Bloomberg Television",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/bloomberg-television.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/bloombergtelevision/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "France 24",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/france-24-cno67m9uq0ra.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/france24/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "NHK",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/nhk.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/nhk/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Acan",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/acan.jpg",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/channelnewsasia/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "CGTN",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/cgtn-en-1xbi4061u8ns.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/cgtn/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Euronews",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/euronews-zdflawhm1wzs.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/euronews/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "arirang ",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/arirang.png",
+    "url": "https://edge-2.m-fixer.net:8088/stream/ais/arirang/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Phoenix InfoNews",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/phoenix-infonews.jpg",
+    "url": "https://edge-1.m-fixer.net:8088/stream/truevisions/phoenixinfonews/master.m3u8",
+    "info": "",
+    "userAgent": ""
+  },
+  {
+    "name": "News 13",
+    "image": "https://beta.m-fixer.net/uploads/tv_image/sm/news-13.jpg",
+    "url": "https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8",
+    "info": "",
+    "userAgent": ""
+   }
+            ]
+        }
+    ]
+}
