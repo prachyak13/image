@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXT-X-VERSION:3
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Original",DEFAULT=YES,AUTOSELECT=YES,URI="https://vd335.okcdn.ru/?expires=1790603154262&srcIp=27.130.195.104&pr=10&srcAg=CHROME&ms=185.180.203.82&type=3&sig=0bzf1nNqrfs&ct=12&urls=185.226.55.18&clientType=0&zs=43&id=1501258975768"
+
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,CODECS="avc1.64001F",AUDIO="audio"
+https://vd335.okcdn.ru/?expires=1790603154262&srcIp=27.130.195.104&pr=10&srcAg=CHROME&ms=185.180.203.82&type=3&sig=0bzf1nNqrfs&ct=11&urls=185.226.55.18&clientType=0&zs=43&id=1501258975768
