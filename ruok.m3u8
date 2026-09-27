@@ -3,7 +3,7 @@
 
 # กำหนดกลุ่มแทร็กเสียง
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aac",NAME="Thai Audio",DEFAULT=YES,AUTOSELECT=YES,URI="audio.m3u8"
-
+https://vd335.okcdn.ru/?expires=1790603154262&srcIp=27.130.195.104&pr=10&srcAg=CHROME&ms=185.180.203.82&type=3&sig=0bzf1nNqrfs&ct=12&urls=185.226.55.18&clientType=0&zs=43&id=1501258975768
 # กำหนดลิงก์ความละเอียดวิดีโอ พร้อมผูกกลุ่มเสียง
 #EXT-X-STREAM-INF:BANDWIDTH=2444369,RESOLUTION=1280x720,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio-aac"
-video_720p.m3u8
+https://vd335.okcdn.ru/?expires=1790603154262&srcIp=27.130.195.104&pr=10&srcAg=CHROME&ms=185.180.203.82&type=3&sig=0bzf1nNqrfs&ct=11&urls=185.226.55.18&clientType=0&zs=43&id=1501258975768
